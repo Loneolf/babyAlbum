@@ -1,2 +1,2 @@
-# babyAlbum
-记录宝宝成长的相册
+# photoLife
+照片记录生活~
